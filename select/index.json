@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Thunder",
+  "base_artist": "LISA",
+  "createdAt": "2026-01-05T07:23:03.665910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Thunder Rolls",
+      "artist": "Brooks Jefferson",
+      "has_synced": true,
+      "path": "select/01_The_Thunder_Rolls_Brooks_Jefferson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Thunder Rolls",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/02_The_Thunder_Rolls_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thunder in the Rain",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/03_Thunder_in_the_Rain_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Open Thunder Eternal Slumber",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/04_Open_Thunder_Eternal_Slumber_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thunder Love",
+      "artist": "Little Dragon",
+      "has_synced": true,
+      "path": "select/05_Thunder_Love_Little_Dragon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Continuous Trucks and Thunder Under a Mother's Smile",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/06_Continuous_Trucks_and_Thunder_Under_a_Mother's_Smile_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God of Thunder",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/07_God_of_Thunder_M83.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Night Thunder",
+      "artist": "Nero",
+      "has_synced": false,
+      "path": "select/08_Night_Thunder_Nero.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thunder",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/09_Thunder_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crimson Thunder",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/10_Crimson_Thunder_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "God Of Thunder - Live At The Forum, Los Angeles/1977",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/11_God_Of_Thunder_-_Live_At_The_Forum,_Los_Angeles_1977_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "God of Thunder",
+      "artist": "KISS",
+      "has_synced": true,
+      "path": "select/12_God_of_Thunder_KISS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Life Like Thunder - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/13_Life_Like_Thunder_-_Album_Mix_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Life Like Thunder",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/14_Life_Like_Thunder_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lord of the Thunder",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/15_Lord_of_the_Thunder_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Twilight Of The Thunder God",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/16_Twilight_Of_The_Thunder_God_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Twilight of the Thunder God",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/17_Twilight_of_the_Thunder_God_Sabaton.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thunder",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/18_Thunder_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thunder",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Thunder_LiSA.txt"
+    }
+  ]
+}
